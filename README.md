@@ -27,7 +27,7 @@ The project contains the following files and folders:
 - `dl1.iml`: This file is used by IntelliJ IDEA to store project-specific settings and configuration
 - `README.md`: This file provides information about the project
 
-## How to Use
+## Requirements
 To run the Dice Game, you'll need to have the following installed:
 - Java 11 or later
 - Apache Tomcat 10
