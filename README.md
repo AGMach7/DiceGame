@@ -3,7 +3,7 @@
 ## Description
 Dice Game is a simple web-based game developed in Java using servlets. The game allows players to roll the dice and accumulate points.
 
-## Game View
+## App View
 The app allows you to create and login to an account:
 ![insc](https://user-images.githubusercontent.com/102682983/230737964-7b3f112f-579e-4100-8a59-e4c06aca79a2.png)
 ![connexion](https://user-images.githubusercontent.com/102682983/230737975-3854b762-bf5b-4c10-b31a-60aa87d8b4ee.png)
