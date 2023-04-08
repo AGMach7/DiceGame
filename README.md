@@ -36,7 +36,6 @@ To run the Dice Game, you'll need to have the following installed:
 - Java
 - Servlets
 - JSP
-- HTML/CSS
 - Bootstrap
 - Apache Tomcat
 
