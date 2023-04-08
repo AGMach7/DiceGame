@@ -3,6 +3,21 @@
 ## Description
 Dice Game is a simple web-based game developed in Java using servlets. The game allows players to roll the dice and accumulate points.
 
+## Game View
+The app allows you to create and login to an account:
+![insc](https://user-images.githubusercontent.com/102682983/230737964-7b3f112f-579e-4100-8a59-e4c06aca79a2.png)
+![connexion](https://user-images.githubusercontent.com/102682983/230737975-3854b762-bf5b-4c10-b31a-60aa87d8b4ee.png)
+
+In the user home you can play, see the best score of each player, and logout from the app:
+![userHome](https://user-images.githubusercontent.com/102682983/230738050-3e60952c-fb5f-4274-b5a1-a9c222c40895.png)
+
+When the game is over, you'll see the following display:
+![resHome](https://user-images.githubusercontent.com/102682983/230738079-a99236e1-0592-4a1c-b2d6-11944cc05eed.png)
+
+ Finally you can check the best score of each player:
+ ![scores](https://user-images.githubusercontent.com/102682983/230738122-4322bfa7-bf5f-4bd2-b3a6-697768a05148.png)
+
+
 ## Game Rules
 - The user should roll 3 dice, numbered 1, 2 and 3, one at a time in any order
 - During a game, the same die must not be rolled several times, in fact, if a player rolls the same die more than once, the application stops the game and the player receives a score = -1
